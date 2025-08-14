@@ -118,7 +118,7 @@ exports.handler = async (event, context) => {
     "a rare coin in a display case",
     "a crystal paperweight",
     "an antique fountain pen",
-    "a miniature Fabergé egg",
+    "a miniature fabergé egg",
     "a jeweled hair comb",
     "a diamond tennis bracelet",
     "a gemstone-studded belt buckle",
