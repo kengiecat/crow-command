@@ -134,7 +134,7 @@ exports.handler = async (event, context) => {
   const item = crowFinds[Math.floor(Math.random() * crowFinds.length)];
   
   // Build message
-  const message = `⋆˚✦ you've befriended a crow. as a sign of affection, they have brought you ${item}`;
+  const message = `⋆˚✦ you've befriended a crow. as a sign of affection, they have brought you ${item}.`;
 
   return {
     statusCode: 200,
